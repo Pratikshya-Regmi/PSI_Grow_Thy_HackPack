@@ -1,5 +1,5 @@
 ### PSI hackathon 2025
-#### Grow Thy Crop (Advanced)
+- Grow Thy Crop (Advanced)
 
 ### Group Members
 
